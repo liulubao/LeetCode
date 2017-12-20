@@ -13,6 +13,7 @@ public class Solution {
         int min=0;
         int mid=0;
         char[] all = s.toCharArray();
+
         Map<String,Integer> m = new HashMap<String, Integer>();
         for (int i=0;i<all.length;i++){
             char a=all[i];
