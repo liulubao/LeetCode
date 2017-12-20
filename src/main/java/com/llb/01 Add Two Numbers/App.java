@@ -1,5 +1,3 @@
-package com.llb;
-
 /**
  * Hello world!
  *
