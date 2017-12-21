@@ -1,4 +1,4 @@
-package Longest_Substring_Without_Repeating_Characters02;
+package Longest_Substring_Without_Repeating_Characters003;
 
 /**
  * Created by LiuLubao on 2017/12/20.
