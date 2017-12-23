@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ba581f6-aa15-49dc-9881-d0252671180b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/llb/006/ZigZag_Conversion006/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/llb/006/ZigZag_Conversion006/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/llb/007/Reverse_Integer007/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/llb/009/Palindrome_Number009/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode.iml" afterPath="$PROJECT_DIR$/LeetCode.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Add_Two_Numbers002/ListNode.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/002/Add_Two_Numbers002/ListNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Add_Two_Numbers002/Solution.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/002/Add_Two_Numbers002/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Add_Two_Numbers002/Solution1.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/002/Add_Two_Numbers002/Solution1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Add_Two_Numbers002/SolutionExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/002/Add_Two_Numbers002/SolutionExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Add_Two_Numbers002/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/002/Add_Two_Numbers002/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Longest_Palindromic_Substring005/Solution.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/005/Longest_Palindromic_Substring005/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Longest_Palindromic_Substring005/SolutionExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/005/Longest_Palindromic_Substring005/SolutionExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Longest_Palindromic_Substring005/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/005/Longest_Palindromic_Substring005/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Longest_Substring_Without_Repeating_Characters003/Solution.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/003/Longest_Substring_Without_Repeating_Characters003/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Longest_Substring_Without_Repeating_Characters003/SolutionExample.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/003/Longest_Substring_Without_Repeating_Characters003/SolutionExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/llb/Longest_Substring_Without_Repeating_Characters003/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/llb/003/Longest_Substring_Without_Repeating_Characters003/Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,8 +41,28 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/006/ZigZag_Conversion006/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="374">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/009/Palindrome_Number009/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/009/Palindrome_Number009/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -65,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/007/Reverse_Integer007/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -74,38 +81,18 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/002/Add_Two_Numbers002/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
+            <state relative-caret-position="990">
               <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/007/Reverse_Integer007/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="25" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SolutionExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/003/Longest_Substring_Without_Repeating_Characters003/SolutionExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/005/Longest_Palindromic_Substring005/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <caret line="25" column="22" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="25" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -182,6 +169,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/llb/007/Reverse_Integer007/Class.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/llb/007/Reverse_Integer007/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/llb/007/Reverse_Integer007/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/llb/009/Palindrome_Number009/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/llb/009/Palindrome_Number009/Test.java" />
       </list>
     </option>
   </component>
@@ -221,8 +210,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -279,11 +268,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="007" />
+              <option name="myItemId" value="009" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Reverse_Integer007" />
+              <option name="myItemId" value="Palindrome_Number009" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="llb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="007" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,7 +450,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Test (4)">
     <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Test" />
@@ -491,6 +514,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Reverse_Integer007.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Palindrome_Number009.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Palindrome_Number009.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -890,18 +933,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Test" />
       <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
       <item index="2" class="java.lang.String" itemvalue="Application.Test (2)" />
       <item index="3" class="java.lang.String" itemvalue="Application.Test (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (4)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -920,7 +965,8 @@
       <workItem from="1513750210070" duration="4143000" />
       <workItem from="1513773884980" duration="7421000" />
       <workItem from="1513866940143" duration="2460000" />
-      <workItem from="1513926171412" duration="6454000" />
+      <workItem from="1513926171412" duration="6712000" />
+      <workItem from="1514015749713" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode01题，solution1并不能通过所有的测试用例，测试用例禁止了将两个链表转化成数字进行相加">
       <created>1513754179339</created>
@@ -971,11 +1017,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513956501224</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6、7的解决方法，但是都需要优化一下，时间消耗太大(之前推送失败)">
+      <created>1513956633266</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1513956633266</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25179000" />
+    <option name="totallyTimeSpent" value="26063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -995,7 +1048,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1050,7 +1103,8 @@
     <MESSAGE value="添加1/2题的示例解法" />
     <MESSAGE value="修改之前的文档机构，添加第五题的解法和示例解法" />
     <MESSAGE value="6、7的解决方法，但是都需要优化一下，时间消耗太大" />
-    <option name="LAST_COMMIT_MESSAGE" value="6、7的解决方法，但是都需要优化一下，时间消耗太大" />
+    <MESSAGE value="6、7的解决方法，但是都需要优化一下，时间消耗太大(之前推送失败)" />
+    <option name="LAST_COMMIT_MESSAGE" value="6、7的解决方法，但是都需要优化一下，时间消耗太大(之前推送失败)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1061,22 +1115,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/002/Add_Two_Numbers002/SolutionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/002/Add_Two_Numbers002/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1113,7 +1151,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,7 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,7 +1181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,7 +1247,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1220,7 +1254,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1228,7 +1261,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1304,25 +1336,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/006/ZigZag_Conversion006/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/007/Reverse_Integer007/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/002/Add_Two_Numbers002/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
+        <state relative-caret-position="990">
           <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding />
         </state>
@@ -1331,7 +1355,31 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/007/Reverse_Integer007/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="25" selection-end-column="22" />
+          <caret line="25" column="22" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/006/ZigZag_Conversion006/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/009/Palindrome_Number009/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/llb/009/Palindrome_Number009/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
           <folding />
         </state>
       </provider>
