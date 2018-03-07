@@ -15,6 +15,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/llb/009" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/llb/010" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/llb/011" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/llb/004" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/llb/012" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/com/llb/013" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
